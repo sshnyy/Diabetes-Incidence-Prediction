@@ -7,7 +7,7 @@
 
 <details>
   
-<summary>📃 논문지</summary> 
+<summary>📃 학술대회</summary> 
 
   - 원문보기: [KISS-링크](https://kiss.kstudy.com/Detail/Ar?key=4059313)
 
