@@ -2,16 +2,11 @@
 
 ## 🤖 당뇨병 발생 예측을 위한 AI 자동화 알고리즘 제안
 
-- R-WeSET 산학연계 팀프로젝트
-- 한국정보처리학회 
-
-  <details>
+- R-WeSET 산학연계 팀프로젝트 | 한국정보처리학회 
     
   <summary>📃 학술대회</summary> 
   
     - 원문보기: [KISS-링크](https://kiss.kstudy.com/Detail/Ar?key=4059313)
-  
-  </details>
 
 
 <br>
