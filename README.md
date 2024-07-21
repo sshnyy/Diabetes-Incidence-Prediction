@@ -1,4 +1,6 @@
-# 🤖 자동화 AI(Machine Learning, ML) 알고리즘 제안
+# Diabetes-Incidence-Prediction
+
+## 🤖 자동화 AI(Machine Learning, ML) 알고리즘 제안
 
 - R-WeSET 산학연계 팀프로젝트 | 한국정보처리학회 
     
@@ -24,8 +26,8 @@
 ```
 
 ## 👀 Summary
-- <b>Raw 데이터로부터 AI(다층 스태킹 앙상블)모델 구성까지 자동화해주는 알고리즘을 제안</b>하였습니다.
 - 당뇨병 데이터로 실험
+- <b>Raw 데이터로부터 AI(다층 스태킹 앙상블)모델 구성까지 자동화해주는 알고리즘을 제안</b>하였습니다.
 
 ```
     - 기존 자동화 autoML 라이브러리 3가지와, 제안하는 알고리즘과의 성능을 다섯 가지 평가지표(Accuracy, F1 score, AUC 등)로 비교
