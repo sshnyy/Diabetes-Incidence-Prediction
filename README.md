@@ -1,6 +1,6 @@
 # Diabetes-Incidence-Prediction
 
-## 🤖 자동화 AI(Machine Learning, ML) 알고리즘 제안
+## 자동화 AI(Machine Learning, ML) 알고리즘 제안
 
 - R-WeSET 산학연계 팀프로젝트 | 한국정보처리학회 
     
